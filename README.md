@@ -11,18 +11,18 @@ Image preprocessing and augmentation
 
 Optional: Real-time recognition using webcam or mobile camera
 
-## Tech Stack:
-Python, OpenCV
+## 💻 Tech Stack:
+![Python](https://img.shields.io/badge/Python-3.8%2B-yellowgreen)
+![OpenCV](https://img.shields.io/badge/OpenCV-4.x-red)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-lightblue)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0.10%2B-blueviolet)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-1.0%2B-orange)
+![SVM](https://img.shields.io/badge/Model-CNN-blue)
 
-TensorFlow / PyTorch (CNN for image recognition)
-
-Pandas / Scikit-learn (for calorie prediction)
-
-Streamlit or Flask (for web interface)
+[![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square&logo=github&labelColor=blue&color=lightgrey&logoWidth=20)](LICENSE)
 
 ## 📁 Dataset Suggestions:
-Dataset :- https://www.kaggle.com/dansbecker/food-101
-Alternative datasets:
 Food-101 Dataset
 Nutrition5k Dataset
 
